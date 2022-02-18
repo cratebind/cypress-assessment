@@ -9,3 +9,4 @@ To complete this assessment, you will need to:
 - [ ] Test a failed login (including error states)
 - [ ] Test side menu usage
 - [ ] Test content loading
+- [ ] Add any other tests you believe would be beneficial
