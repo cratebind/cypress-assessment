@@ -2,7 +2,9 @@
 
 This repo contains a small sample app that you've been asked to write Cypress tests for.
 
-To complete this assessment, you will need to:
+You will need to fork this repository and clone it locally.
+
+You will be scored based on your ability to complete the following tasks:
 
 - [ ] Install and set up Cypress
 - [ ] Test a successful login
