@@ -4,6 +4,8 @@ This repo contains a small sample app that you've been asked to write Cypress te
 
 You will need to fork this repository and clone it locally.
 
+Local login credentials are `me@example.com` and `password`
+
 You will be scored based on your ability to complete the following tasks:
 
 - [ ] Install and set up Cypress
