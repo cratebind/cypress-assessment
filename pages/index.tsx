@@ -24,7 +24,7 @@ export default function Example() {
       newErrors.password = "Password is required";
     }
 
-    if (email.value !== 'me@example.com' && password.value !== 'password') {
+    if (email.value !== 'me@example.com' || password.value !== 'password') {
       newErrors.form = 'Invalid email or password';
     } else {
       router.push('/dashboard');
